@@ -1,1 +1,1 @@
-# Python
+# Python aint necessarily a snake
